@@ -3,9 +3,9 @@
 
 </p>
 
-- 🔭 I’m currently working on Twitcherz
-- 🌱 I’m currently learning Express.js
-- 👯 I’m looking to collaborate on Node
+- 🔭 I’m currently working on Taratech LLC Projects
+- 🌱 I’m currently learning DRF
+- 👯 I’m looking to collaborate on NestJs
 - 💬 Ask me about Flutter & js frameworks
 - 📫 How to reach me: armoghaddam24@gmail.com
 - ⚡ Fun fact: I kill myself with js frameworks :)
