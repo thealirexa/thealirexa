@@ -1,8 +1,5 @@
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=armoghaddam&layout=compact&hide_border=true&theme=darcula&bg_color=0,000000,130F40&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=armoghaddam&theme=tokyonight" alt="mystreak"/>
-  <img alt="followers" src="https://img.shields.io/github/followers/armoghaddam?label=Followers&style=social">
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/armoghaddam?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 <a href="https://www.linkedin.com/in/armoghaddam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/armoghaddam/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
