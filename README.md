@@ -10,5 +10,3 @@
 - 💬 Ask me about Flutter & js frameworks
 - 📫 How to reach me: armoghaddam24@gmail.com
 - ⚡ Fun fact: I kill myself with js frameworks :)
-
-<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px>
