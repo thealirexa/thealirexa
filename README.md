@@ -1,9 +1,9 @@
 ### 💫 About Me:
 🔭 Driven Frontend Engineer offering 5+ years of experience providing high-impact web solutions, proficient in the modern JavaScript/TypeScript stack and its ecosystem. Interested in GraphQL and Frontend architectures that scale.
 
-Skilled in designing, developing, and testing multiple web-based applications incorporating a range of technologies. Aspiring to combine broad background with strong technical skills to excel as a Frontend Engineer.
+Skilled in designing, developing, and testing multiple web-based applications incorporating a range of technologies. Aspiring to combine broad background with strong technical skills to excel as a software Engineer.
 
-html css javascript node-js typescript tailwindcss react next js eslint jest babel styled components storybook prettier postcss rollup nodemon graphql apollo sass nodejs netlify netlify heroku webpack vscode npm heroku commitlint husky handlebars markdown i18n github
+node-js typescript tailwindcss react next js eslint jest babel styled components storybook prettier postcss rollup nodemon graphql apollo sass nodejs netlify netlify heroku webpack vscode npm heroku commitlint husky handlebars markdown i18n github
 
 
 ### 🌐 Socials:
