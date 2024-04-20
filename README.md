@@ -1,5 +1,9 @@
 ### 💫 About Me:
-🔭 I’m currently working on Taratech LLC Projects<br>🌱 I’m currently learning DRF<br>👯 I’m looking to collaborate on NestJs<br>💬 Ask me about Flutter & js frameworks<br>📫 How to reach me: armoghaddam24@gmail.com<br>⚡ Fun fact: I kill myself with js frameworks :)
+🔭 Driven Frontend Engineer offering 5+ years of experience providing high-impact web solutions, proficient in the modern JavaScript/TypeScript stack and its ecosystem. Interested in GraphQL and Frontend architectures that scale.
+
+Skilled in designing, developing, and testing multiple web-based applications incorporating a range of technologies. Aspiring to combine broad background with strong technical skills to excel as a Frontend Engineer.
+
+html css javascript node-js typescript tailwindcss react next js eslint jest babel styled components storybook prettier postcss rollup nodemon graphql apollo sass nodejs netlify netlify heroku webpack vscode npm heroku commitlint husky handlebars markdown i18n github
 
 
 ### 🌐 Socials:
