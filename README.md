@@ -1,10 +1,3 @@
-### 💫 About Me:
-🔭 Driven Software Engineer offering 5+ years of experience providing high-impact web solutions, proficient in the modern JavaScript/TypeScript stack and its ecosystem. Interested in GraphQL and Frontend architectures that scale.
-
-Skilled in designing, developing, and testing multiple web-based applications incorporating a range of technologies. Aspiring to combine broad background with strong technical skills to excel as a Software Engineer.
-
-node-js typescript tailwindcss react next js eslint jest babel styled components storybook prettier postcss rollup nodemon graphql apollo sass nodejs netlify netlify heroku webpack vscode npm heroku commitlint husky handlebars markdown i18n github
-
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alirexamoghadam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alirexa-moghaddam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xidopa) 
 
